@@ -13,7 +13,7 @@ const App = () => (
 					<p className="text-green-700 text-sm bg-green-50 border border-green-200 w-fit rounded-full px-2">
 						Interior
 					</p>
-					<h1 className="font-semibold text-neutral-900">
+					<h1 className="font-semibold text-neutral-900 text-lg">
 						Top 5 Living Room Inspirations
 					</h1>
 				</header>
