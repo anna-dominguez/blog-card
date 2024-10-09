@@ -22,7 +22,7 @@ const App = () => (
 						Curated vibrants colors for your living, make it pop & calm in the
 						same time.
 					</p>
-					<button type="button" className="flex items-center gap-2">
+					<button type="button" className="flex items-center gap-2 text-base">
 						Read more <ArrowRight />
 					</button>
 				</article>
