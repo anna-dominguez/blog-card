@@ -9,6 +9,6 @@ body {
 
 @layer components {
   button {
-    @apply text-indigo-700 hover:text-indigo-800 rounded-md outline-indigo-100 focus: px-2px w-fit font-medium text-left text-base
+    @apply text-indigo-700 hover:text-indigo-800 rounded-md outline-indigo-100 px-2px w-fit font-medium text-left text-base
   }
 }
